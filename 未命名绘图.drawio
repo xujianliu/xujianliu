@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" modified="2023-09-04T12:53:29.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kr9Yt7K--1mTG19u8CnJ" version="21.7.2" type="github">
+  <diagram name="第 1 页" id="scjwsPsZjdd7dYqPYWkl">
+    <mxGraphModel dx="1235" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B33xodl8sTcFg_PJkEE8-1" value="" style="whiteSpace=wrap;html=1;fillOpacity=100;imageWidth=640;imageHeight=360;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="640" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="B33xodl8sTcFg_PJkEE8-2" value="1920*1080" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="B33xodl8sTcFg_PJkEE8-3" value="3840*2160" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B33xodl8sTcFg_PJkEE8-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B33xodl8sTcFg_PJkEE8-2" target="B33xodl8sTcFg_PJkEE8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B33xodl8sTcFg_PJkEE8-6" value="放大2两倍，其实是拉伸所以拉伸以后，&lt;br&gt;需要除以2，才是设计的效果。&lt;br&gt;（麻烦以后标注尺寸的时候必须是偶数，方便除2）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="B33xodl8sTcFg_PJkEE8-5">
+          <mxGeometry x="0.0004" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
